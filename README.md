@@ -31,7 +31,7 @@ sweta = {
     "location"   : "India 🇮🇳",
     "skills"     : ["Power BI","Tableau", "Python", "R Programming", "MySQL", "Jupyter"],
     "interests"  : ["Business Intelligence", "Machine Learning", "Data Storytelling"],
-    "currently"  : "Open to Data Analyst / BI Analyst / Business Analyst roles / Research Analyst 💼",
+    "currently"  : "Open to Data Analyst / Research Analyst / Business Analyst roles  💼",
 }
 ```
 
@@ -148,7 +148,7 @@ business insights.
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **Data Analyst / BI Analyst / Business Analyst** roles. Recruiters and collaborators — I'd love to hear from you!
+I'm actively seeking **Data Analyst / Research Analyst / Business Analyst** roles. Recruiters and collaborators — I'd love to hear from you!
 
 <p align="center">
   <a href="https://linkedin.com/in/sweta-mehta">
