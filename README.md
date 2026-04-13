@@ -94,9 +94,10 @@ sweta = {
   </tr>
    <tr>
     <td>📈 <b>Statistical Analysis </b></td>
-    <td>Applying hypothesis testing (p-values,Significance), A/B testing, and probability distributions to validate findings and quantify business risk</td>
-  </tr>
-  <tr>
+    <td>Applying hypothesis testing (p-values, Significance), A/B testing, and probability 
+        distributions to validate findings and quantify business risk</td>
+    </tr>
+   <tr>
     <td>🗄️ <b>SQL Querying</b></td>
     <td>Writing complex queries for data extraction, aggregation & reporting</td>
   </tr>
