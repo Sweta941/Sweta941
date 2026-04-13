@@ -140,14 +140,6 @@ business insights.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sweta941&theme=flat&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
 ## 📅 Contribution Activity
 
 <p align="center">
