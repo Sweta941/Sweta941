@@ -31,7 +31,7 @@ sweta = {
     "location"   : "India 🇮🇳",
     "skills"     : ["Power BI","Tableau", "Python", "R Programming", "MySQL", "Jupyter"],
     "interests"  : ["Business Intelligence", "Machine Learning", "Data Storytelling"],
-    "currently"  : "Open to Data Analyst / BI Analyst / Business Analyst roles 💼",
+    "currently"  : "Open to Data Analyst / BI Analyst / Business Analyst roles / Research Analyst 💼",
 }
 ```
 
