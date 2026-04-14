@@ -154,7 +154,7 @@ business insights.
 
 ## 🤝 Let's Connect!
 
-Open to **Data Analyst | Research Analyst | Business Analyst** roles — Let's build something impactful together!
+     🚀 Open to **Data Analyst | Research Analyst | Business Analyst** roles — Let's build something impactful together!
 
 <p align="center">
   <a href="https://linkedin.com/in/sweta-mehta">
