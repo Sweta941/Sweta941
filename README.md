@@ -128,8 +128,6 @@ business insights.
 
 ## 🏅 Certifications
 
-## 🏅 Certifications
-
 <table>
   <tr>
     <th>Certificate</th>
