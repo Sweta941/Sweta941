@@ -109,7 +109,7 @@ sweta = {
 
 ---
 
-## 🏅 Certifications & Experience
+## 🏅 Experience
 
 - 🏢 **PwC Switzerland – Power BI Virtual Internship** *(Forage)*
   - Formulated stakeholder-focused reports and 3 interactive dashboards using Power BI, Power Query, and DAX, translating complex data into actionable
@@ -125,6 +125,37 @@ business insights.
   - Designed and delivered 2 interactive dashboards/visualizations, enabling stakeholders to track KPIs and monitor business performance in real-time.
     
 ---
+
+## 🏅 Certifications
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Issuer</th>
+    <th>Level</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>SQL Basic</td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></td>
+    <td>🟢 Basic</td>
+    <td><a href="https://www.hackerrank.com/certificates/89c96542fbbf">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>SQL Intermediate</td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></td>
+    <td>🟡 Intermediate</td>
+    <td><a href="https://www.hackerrank.com/certificates/f166970eddca">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>SQL Advanced</td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></td>
+    <td>🔴 Advanced</td>
+    <td><a href="https://www.hackerrank.com/certificates/6f3d0c4826c0">View Certificate</a></td>
+  </tr>
+</table>
+
+-------
 
 ## 🌱 Currently Learning
 
