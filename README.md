@@ -181,7 +181,7 @@ business insights.
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweta941&theme=github-compact&hide_border=true&days=90" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sweta941&theme=github-compact&hide_border=true&days=45" />
 </p>
 
 ---
