@@ -128,9 +128,34 @@ business insights.
 
 ## 🏅 Certifications
 
-[![SQL Basic](https://img.shields.io/badge/HackerRank-SQL%20Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/89c96542fbbf)
-[![SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f166970eddca)
-[![SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/6f3d0c4826c0)
+## 🏅 Certifications
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Issuer</th>
+    <th>Level</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>SQL Basic</td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></td>
+    <td>🟢 Basic</td>
+    <td><a href="https://www.hackerrank.com/certificates/89c96542fbbf">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>SQL Intermediate</td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></td>
+    <td>🟡 Intermediate</td>
+    <td><a href="https://www.hackerrank.com/certificates/f166970eddca">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>SQL Advanced</td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></td>
+    <td>🔴 Advanced</td>
+    <td><a href="https://www.hackerrank.com/certificates/6f3d0c4826c0">View Certificate</a></td>
+  </tr>
+</table>
 
 -------
 
