@@ -112,7 +112,8 @@ sweta = {
 ## 🏅 Experience
 
 - 🏢 **PwC Switzerland – Power BI Virtual Internship** *(Forage)*
-  - Formulated stakeholder-focused reports and 3 interactive dashboards using Power BI, Power Query, and DAX, translating complex data into actionable
+> 📊 Business Intelligence & Data Visualization
+  - Formulated stakeholder-focused reports and **3 interactive dashboards** using **Power BI, Power Query, and DAX**, translating complex data into actionable
 business insights.
   - Conducted in-depth data analysis to identify key performance metrics, customer satisfaction drivers, and operational efficiency opportunities.
 
