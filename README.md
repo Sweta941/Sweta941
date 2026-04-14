@@ -122,9 +122,10 @@ business insights.
   -  Executed empirical economic research using **primary survey data from 400+ respondents**, applying econometric techniques for analysis.
   - Contributed statistical insights and visualizations to **2 key research paper sections**, enhancing publication quality and research credibility.
  
-- 🏢  **Meriskill -Virtual Data Analyst Intern**
-  - Analyzed 3,000+ data points across multiple datasets, identifying trends and patterns to support business decision-making.
-  - Designed and delivered 2 interactive dashboards/visualizations, enabling stakeholders to track KPIs and monitor business performance in real-time.
+### 🏢 MeriSkill — Virtual Data Analyst Intern
+  > 🔍 Data Analysis & Dashboard Development
+  - Analyzed **3,000+ data points** across multiple datasets, identifying trends and patterns to support business decision-making.
+  - Designed and delivered **2 interactive dashboards/visualizations**, enabling stakeholders to track KPIs and monitor business performance in real-time.
     
 ---
 
