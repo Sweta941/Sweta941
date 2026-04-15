@@ -30,7 +30,7 @@ sweta = {
     "name"       : "Sweta Mehta",
     "role"       : "Data Analyst",
     "location"   : "India 🇮🇳",
-    "skills"     : ["Power BI","Tableau", "Python", "R Programming", "MySQL", "Jupyter"],
+    "skills"     : ["MySQL","Advance Excel","Power BI","Tableau", "Python", "R Programming"],
     "interests"  : ["Business Intelligence", "Machine Learning", "Data Storytelling"],
     "currently"  : "Open to Data Analyst / Research Analyst / Business Analyst roles 💼",
 }
