@@ -166,14 +166,6 @@ business insights.
 
 --------
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweta941&theme=default&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 📅 Contribution Activity
 
 <p align="center">
